@@ -58,4 +58,4 @@
  * ## Mapa mental:
     [Mapa mental](./NotebookLM%20Mind%20Map.png)
  * ## Apresentação criada: 
-  [Apresentação sobre sql](./SQL_Engineering_Mastery.pdf)
+    [Apresentação sobre sql](./SQL_Engineering_Mastery.pdf)
